@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  margin: 0;
+  padding: 20px;
+  width: 1200px;
+  height: 400px;
+  background-color: rgb(156, 109, 4);
+}
+h1{
+  font-size: 26px;
+  color: rgb(22, 2, 45);
+}
+.menu{
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  font-family: Tahoma monospace;
+  padding-right: 10px;
+}
+.menu:hover{
+  color: rgb(117, 6, 6);
+  text-decoration: underline;
+}
+.paragraph_1{
+  background-color: rgb(156, 109, 4);
+  color: rgb(2, 1, 11);
+
+}
+.btn{
+  width: 140px;
+  height: 40px;
+  background: rgb(5, 81, 136);
+  color: #fff;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+}
